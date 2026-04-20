@@ -29,7 +29,7 @@ Bu skill başlamadan önce şunlar hazır olmalı:
 - [ ] Başarı kriterleri netleşti
 - [ ] Tech stack kararı verildi
 
-**Scope doc'u yükle:** `.agent/SCOPE-*.md` paterninde arama yap ve en son tarihli olanı oku.
+**Scope doc'u yükle:** `.agent/SCOPE-*.md` patterninde arama yap ve en son tarihli olanı oku.
 Bunlar yoksa önce `brainstorming` skill'ini çalıştır.
 
 ---
