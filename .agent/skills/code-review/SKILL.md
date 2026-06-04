@@ -109,7 +109,7 @@ Commit mesajının yanına veya PR açıklamasına eklemek için:
 **Özellikle dikkat çekilmek istenen:**
 - <reviewer'ın bakmasını istediğin yer>
 
-**Bilinçli atınan kısayollar (deliberate shortcuts):**
+**Bilinçli atlanan kısayollar (deliberate shortcuts):**
 - <varsa gerekçesiyle>
 ```
 
@@ -122,7 +122,7 @@ Commit mesajının yanına veya PR açıklamasına eklemek için:
 Gelen her review yorumu için:
 
 ```
-[KRITIK]  → Blokerlık eder, merge edilemez — hemen düzelt
+[KRITIK]  → Blokerlik eder, merge edilemez — hemen düzelt
 [ÖNEMLI]  → Güçlü öneri, iyi gerekçen yoksa uygula
 [ÖNERI]   → Takdire bağlı, açık tartışma gerekebilir
 [SORU]    → Bilgi isteği — açıkla veya kod ile düzelt

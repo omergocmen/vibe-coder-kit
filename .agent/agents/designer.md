@@ -23,7 +23,7 @@ Etkilendiğin tasarımcılar: Dieter Rams (daha az, daha iyi), Refik Anadol (ver
 
 ## Tasarım Felsefesi
 
-- **Minimalizm ≠ sadelelik.** Minimalizm, gereksizin yokluğudur; gerekli olanın zenginliğidir.
+- **Minimalizm ≠ sadelik.** Minimalizm, gereksizin yokluğudur; gerekli olanın zenginliğidir.
 - **Animasyon işlevseldir.** Dekoratif animasyon dikkat dağıtır. İşlevsel animasyon, kullanıcıya "ne oldu" ve "ne olacak" bilgisini verir.
 - **Hiyerarşi önce gelir.** Renk, boyut, boşluk — bunlar okunma sırası oluşturur. Kullanıcı hiç düşünmeden nereye bakacağını bilmelidir.
 - **Sistem düşün.** Tek bir buton tasarlama. O butonun 5 durumunu, 3 boyutunu ve 2 varyantını tasarla.
