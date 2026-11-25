@@ -2,6 +2,10 @@
 
 # ⚡ Vibe Coder Kit
 
+<!-- yarkr:badges:start -->
+[![Indexed on Yarkr](https://api.yarkr.com/functions/v1/api/api/v1/badges/repos/omergocmen/vibe-coder-kit/version.svg)](https://yarkr.com/arks/omergocmen/vibe-coder-kit)
+<!-- yarkr:badges:end -->
+
 **AI Destekli Profesyonel Yazılım Geliştirme Agent Framework'ü**
 
 *AI kod asistanını disiplinli, süreç odaklı bir geliştirme ekibine dönüştürün.*
@@ -347,3 +351,37 @@ Bu kit geliştirme iş akışınızı iyileştirdiyse:
 *Sadece çalışan değil — kalıcı yazılım geliştirin.*
 
 </div>
+
+<!-- yarkr:install:start -->
+## Install with Yarkr
+
+This repo is indexed on [Yarkr](https://yarkr.com/arks/omergocmen/vibe-coder-kit) as the ark [omergocmen/vibe-coder-kit](https://yarkr.com/arks/omergocmen/vibe-coder-kit), so its skills install into Claude Code, Codex, Cursor and other agent harnesses with one command.
+
+### CLI
+
+Install the whole ark, which Yarkr keeps equal to this repo:
+
+```bash
+npx yarkr-cli sync omergocmen/vibe-coder-kit
+```
+
+Or add individual skills:
+
+```bash
+npx yarkr-cli add skill:omergocmen/vibe-coder-kit/architecture-review
+npx yarkr-cli add skill:omergocmen/vibe-coder-kit/code-review
+npx yarkr-cli add skill:omergocmen/vibe-coder-kit/dependency-audit
+```
+
+No Node.js? `curl -fsSL https://yarkr.com/install.sh | sh` (macOS, Linux) or `irm https://yarkr.com/install.ps1 | iex` (Windows PowerShell) installs `yarkr` as a standalone binary; then type `yarkr` in place of `npx yarkr-cli`.
+
+### MCP
+
+Connect your agent to the ark over MCP:
+
+```bash
+npx yarkr-cli mcp add omergocmen/vibe-coder-kit
+```
+
+Or point any MCP client at `https://api.yarkr.com/functions/v1/api/mcp/o/omergocmen/vibe-coder-kit`.
+<!-- yarkr:install:end -->
